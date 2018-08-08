@@ -1,16 +1,12 @@
 {
-  "name": "@frctl/mandelbrot",
+  "name": "mersenne",
   "version": "1.2.0",
   "description": "The default theme for Fractal.",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/frctl/mandelbrot.git"
+    "url": "https://github.com/kilianPM/mersenne"
   },
-  "bugs": {
-    "url": "https://github.com/frctl/mandelbrot/issues"
-  },
-  "author": "Mark Perkins <mark@clearleft.com> (http://clearleft.com/)",
   "license": "MIT",
   "scripts": {
     "build": "gulp",
